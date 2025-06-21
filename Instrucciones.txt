@@ -1,0 +1,20 @@
+----------------------La primera vez--------------------------
+1. Abre el git bash en el lugar en el que desea clonar.
+
+2. Clona el repositorio
+
+git clone https://github.com/VirtualAI3/dataset_papa.git
+cd dataset_papa
+
+-------------------Para subir las Imagenes Cada vez que quieras añadir-------------------------
+1. Abre git bash dentro de la carpeta dataset_papa
+
+2. Actualizar el repositurio local
+
+git pull
+
+3. Guarda y sube los cambios
+
+git add .
+git commit -m "[Nombre] agrego imagenes de [enfermedades]"
+git push
