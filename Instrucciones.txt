@@ -1,3 +1,11 @@
+- Minimo tamaño de imagen 224 x 224. Puede ser más grande.
+- Imagenes con un fondo de color uniforme (Blanco u otros colores)
+- Los nombres son de la siguiente forma (Nombre en minuscula de la carpeta, reemplazando 
+los espacios por _): nombre_de_la_carpeta_1.jpg
+- La enfermedad debe ser facilmente visible y diferenciable en la imagen
+- Por ahora solo habra una imagen de ejemplo de la enfermedad en cada carpeta. 
+Las imagenes que coloquen deben ser con numeracion como se menciono anteriormete.
+
 ----------------------La primera vez--------------------------
 1. Abre el git bash en el lugar en el que desea clonar.
 
